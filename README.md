@@ -10,6 +10,8 @@ INSTRUCCIONES (borrar este bloque al crear tu repositorio)
 
 # LOXO-MULTIPAP – [Short descriptive title]
 
+> **Guía de uso de esta plantilla / Template guide:** [`docs/COMO_USAR_ESTA_PLANTILLA.md`](docs/COMO_USAR_ESTA_PLANTILLA.md) — *(borra esta línea al crear tu repositorio / delete this line when you create your repository)*
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 <!-- Replace XXXXXXX with the *concept DOI* after the first release. -->
 
