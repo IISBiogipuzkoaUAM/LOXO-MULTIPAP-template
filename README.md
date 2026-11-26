@@ -1,7 +1,6 @@
 <!--
 ==========================================================================
 INSTRUCCIONES (borrar este bloque al crear tu repositorio)
-0. Pulsa Use this template» || Click Use this template
 1. Sustituye todo lo que va entre [CORCHETES].
 2. Rellena también .zenodo.json y CITATION.cff con los mismos autores y título (el acrónimo LOXO-MULTIPAP ya está puesto).
 3. Crea el entorno reproducible (renv::init() en R, o environment.yml en Python).
