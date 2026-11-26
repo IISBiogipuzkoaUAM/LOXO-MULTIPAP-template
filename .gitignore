@@ -1,0 +1,32 @@
+# --- Data: raw inputs are not tracked (document their source instead) ---
+data/raw/*
+!data/raw/README.md
+# LOXO: processed data may derive from health data -> not tracked by default.
+# Only remove these two lines if the files contain NO personal data (aggregated results only).
+data/processed/*
+!data/processed/.gitkeep
+
+# --- R ---
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+renv/staging/
+renv/local/
+
+# --- Python ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# --- Credentials and local settings (never commit) ---
+.env
+*.key
+config_local.*
+
+# --- System ---
+.DS_Store
+Thumbs.db
+*.log

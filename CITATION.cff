@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the specific version you used."
+title: "LOXO-MULTIPAP – [Short descriptive title]"
+type: software
+authors:
+  - family-names: "[Surname]"
+    given-names: "[Name]"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "[Institution]"
+version: "1.0.0"
+date-released: "YYYY-MM-DD"
+license: MIT
+repository-code: "https://github.com/[organisation]/[repository]"
+keywords:
+  - "LOXO-MULTIPAP"
+  - "multimorbidity"
+  - "[keyword 3]"
+# After the first release, uncomment and add the concept DOI:
+# doi: "10.5281/zenodo.XXXXXXX"

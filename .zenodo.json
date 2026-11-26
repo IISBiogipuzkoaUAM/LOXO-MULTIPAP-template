@@ -1,0 +1,25 @@
+{
+  "title": "LOXO-MULTIPAP – [Short descriptive title]",
+  "upload_type": "software",
+  "description": "<p>[What this software does and what it is used for in the LOXO-MULTIPAP project.]</p><p>This work has been developed within the MM-SNS project (“Multimorbidity in the Spanish National Health System: population characterization and impact of multimorbidity patterns and trajectories in older adults”), funded by the Instituto de Salud Carlos III (ISCIII), Spain, through the Acción Estratégica en Salud 2022. Participating nodes were supported by grants PI22/01651 (Andalucía), PI22/00701 (Aragón), PI22/01684 (Illes Balears), PI22/01398 (Cataluña), PI22/01665 (Euskadi-Navarra), and PI22/00768 (Madrid).</p>",
+  "creators": [
+    {
+      "name": "[Surname], [Name]",
+      "affiliation": "[Institution]",
+      "orcid": "0000-0000-0000-0000"
+    }
+  ],
+  "license": "mit",
+  "keywords": [
+    "LOXO-MULTIPAP",
+    "multimorbidity",
+    "trajectories",
+    "[keyword 4]"
+  ],
+  "language": "eng",
+  "communities": [
+    {
+      "identifier": "loxo_multipap"
+    }
+  ]
+}
